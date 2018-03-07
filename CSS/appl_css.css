@@ -1,0 +1,71 @@
+/*#js-listviewthead-WPQ2 {
+    display:none;
+}*/
+
+/*general*/ 
+
+#onetidDoclibViewTbl0 thead{
+    display:none !important;
+}
+
+
+#onetidDoclibViewTbl0 .ms-tileview-tile-detailsBox {
+    display:none !important;
+}
+
+/*doc library one*/
+
+#onetidDoclibViewTbl0[summary="Flags"] .ms-tileview-tile-root {
+    width:240px !important;
+    height:160px !important;
+}
+
+#onetidDoclibViewTbl0[summary="Flags"] .ms-tileview-tile-inner{
+    width:240px !important;
+    height:160px !important;
+}
+
+
+#onetidDoclibViewTbl0[summary="Flags"] .ms-tileview-tile-content {
+    width:240px !important;
+    height:160px !important;
+}
+
+#onetidDoclibViewTbl0[summary="Flags"] img {
+    width:240px !important;
+    height:160px !important;
+    right:0px !important;
+}
+
+/*doc library 2*/
+
+#onetidDoclibViewTbl0[summary="Service Location Country Support"] .ms-tileview-tile-root {
+    width:430px !important;
+    height:380px !important;
+}
+
+#onetidDoclibViewTbl0[summary="Service Location Country Support"] .ms-tileview-tile-inner{
+    width:430px !important;
+    height:380px !important;
+}
+
+
+#onetidDoclibViewTbl0[summary="Service Location Country Support"] .ms-tileview-tile-content {
+    width:430px !important;
+    height:380px !important;
+}
+
+#onetidDoclibViewTbl0[summary="Service Location Country Support"] img {
+    width:430px !important;
+    height:380px !important;
+    right:0px !important;
+}
+
+
+/*#bottomPagingWPQ2 {
+    display:none !important;
+}*/
+
+/*#bottomPagingCellWPQ5 {
+    display:none !important;
+}*/

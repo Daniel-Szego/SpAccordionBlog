@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SiteAssets", "SiteAssets", "{20641519-482C-4797-BD4B-1D12E6665E31}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSS", "CSS", "{708A8A19-6D97-4E53-B2DE-C0B3B33CB500}"
+	ProjectSection(SolutionItems) = preProject
+		CSS\appl_css.css = CSS\appl_css.css
+		CSS\blog_css.css = CSS\blog_css.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JS", "JS", "{61C584D6-D8AC-4781-8518-198F0B9F5B3B}"
+	ProjectSection(SolutionItems) = preProject
+		JS\appl_js.js = JS\appl_js.js
+		JS\blog_js.js = JS\blog_js.js
+		JS\blog_js_MetroComp.js = JS\blog_js_MetroComp.js
+		JS\jquery.min.js = JS\jquery.min.js
+		JS\jquery.shorten.1.0.js = JS\jquery.shorten.1.0.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CONTENT", "CONTENT", "{DA2C3484-362C-4C39-8207-393D347C66AB}"
+	ProjectSection(SolutionItems) = preProject
+		CONTENT\appl_blog.htm = CONTENT\appl_blog.htm
+		CONTENT\appl_blogMetroComp.htm = CONTENT\appl_blogMetroComp.htm
+		CONTENT\appl_content.htm = CONTENT\appl_content.htm
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{708A8A19-6D97-4E53-B2DE-C0B3B33CB500} = {20641519-482C-4797-BD4B-1D12E6665E31}
+		{61C584D6-D8AC-4781-8518-198F0B9F5B3B} = {20641519-482C-4797-BD4B-1D12E6665E31}
+		{DA2C3484-362C-4C39-8207-393D347C66AB} = {20641519-482C-4797-BD4B-1D12E6665E31}
+	EndGlobalSection
+EndGlobal
